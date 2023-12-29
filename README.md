@@ -4,7 +4,7 @@ I'm Trilochan Behera, a seasoned full-stack developer with over 2+ years of expe
 Here's a glimpse into my tech toolbox:
 
 ## Visit Portfolio Website 🌐
-Explore Portfolio live at https://time-wisez.vercel.app/
+Explore Portfolio live at https://trilochan-behera.vercel.app/
 
 
 ## Tech Stack 👀
