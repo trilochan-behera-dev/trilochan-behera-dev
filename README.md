@@ -1,6 +1,7 @@
 # 💞️ Hi there! 👋
 
-I'm Trilochan Behera, a seasoned full-stack developer with over 2+ years of experience in shaping innovative web solutions. Here's a glimpse into my tech toolbox:
+I'm Trilochan Behera, a seasoned full-stack developer with over 2+ years of experience in shaping innovative web solutions. 
+Here's a glimpse into my tech toolbox:
 
 ## Tech Stack 👀
 
