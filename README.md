@@ -16,7 +16,6 @@ Explore Portfolio live at https://trilochan-behera.vercel.app/
 - **Styling**: Tailwind CSS
 - **Version Control**: Git
 - **Containerization**: Docker
-- **Search Engine**: Elastic Search
 - **Query Language**: GraphQL
 
 ## What I Bring to the Table 🚀
